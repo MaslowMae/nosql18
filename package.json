@@ -1,0 +1,25 @@
+{
+  "name": "challenge18",
+  "version": "1.0.0",
+  "description": "mongoDBpractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "seed": "./utils/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MaslowMae"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "BMM",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.1"
+  }
+}
